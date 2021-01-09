@@ -1,0 +1,20 @@
+{
+    "name" : "PWA Example",
+    "short_name" : "PWA",
+    "start_url" : ".",
+    "background_color" : "#000000",
+    "theme_color" : "#4287f5",
+    "display" : "standalone",
+    "icons" : [
+        {
+            "src" : "imgs/springboot.png",
+            "type": "image/png",
+            "sizes": "300x300"
+        },
+        {
+            "src" : "imgs/vaadin.png",
+            "type": "image/png",
+            "sizes": "500x500"
+        }
+    ]
+}
